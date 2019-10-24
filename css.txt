@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+
+.row {
+  line-height: 24pt;
+  border: solid 1px black;
+}
+div.container > div:nth-of-type(even) {
+    background: #212e8f;
+}
+div.container > div:nth-of-type(odd) {
+    background: #e0e0e0;
+}
+}
+
+</style>
+<div class="container">
+  <h3>Title</h3>
+  <div class="row">Content</div>
+  <div class="row">Content</div>
+  <div class="row">Content</div>
+  <div class="row">Content</div>  
+</div>
+</body>
+</html>
