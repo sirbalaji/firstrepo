@@ -1,0 +1,2 @@
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/37d2c2df-b31e-48c0-ad58-b2d385f28a86/clientpostasyncuricontent-throws-500-internal-server-error?forum=csharpgeneral
+https://stackoverflow.com/questions/38958066/send-httpcontent-with-postasync-gives-internal-server-error
